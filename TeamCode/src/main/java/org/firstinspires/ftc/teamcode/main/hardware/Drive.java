@@ -24,4 +24,12 @@ public class Drive extends OpMode {
     public void stop(){
 
     }
+    
+    public void driveTo(double power, Vector3f localPos){
+    
+    }
+    
+    public void turnTo(double power, double localAngle){
+    
+    }
 }
