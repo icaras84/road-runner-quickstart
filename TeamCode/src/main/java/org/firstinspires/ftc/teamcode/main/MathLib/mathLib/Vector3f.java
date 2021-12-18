@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.main._MatrixLib-main.mathLib;
+package org.firstinspires.ftc.teamcode.main.MathLib.mathLib;
 
 import java.io.IOException;
 
